@@ -19,6 +19,13 @@ OrderRoutes = new Mongo.Collection("orderroute");
 Clients = new Mongo.Collection("clients");
 // Client address collection for caching
 ClientAddresses = new Mongo.Collection("clientaddresses");
+// Client limits collection
+Limits = new Mongo.Collection("limits");
+// car injuries collection
+FleetNotes = new Mongo.Collection("fleetnotes");
+// companies collection
+Companies = new Mongo.Collection('companies');
+
 
 
 console.log("Rendering collections");
