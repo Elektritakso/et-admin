@@ -1,0 +1,2 @@
+// Datasource settings
+{ "datasource": "static.elektritakso.net", "datasourceuser":"kliendi.portaal", "datasourcepass":"NSFGS@##1112341bsdfwwergqpq23", "envName": "devel", "ping": "3", "arch30_delay": "1800", "arch5_delay": "300", "arch1_delay": "60", "public": {  "card_payment": true,"envName": "See on DEVEL keskkond", "envColor": "#a6a6a6" } }
